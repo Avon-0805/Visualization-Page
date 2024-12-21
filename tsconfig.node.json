@@ -9,7 +9,7 @@
   ],
   "compilerOptions": {
     "composite": true,  // 启用项目的组合模式
-    "noEmit": true,   // ts，false表示允许输出构建信息文件；true表示禁止生成任何输出文件，用于开发和测试阶段
+    // "noEmit": true,   // ts，false表示允许输出构建信息文件；true表示禁止生成任何输出文件，用于开发和测试阶段
     "tsBuildInfoFile": "./node_modules/.tmp/tsconfig.node.tsbuildinfo",
 
     "module": "ESNext",

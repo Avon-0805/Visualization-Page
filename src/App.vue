@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { RouterLink, RouterView } from 'vue-router'
-import Index from '@/views/index.vue'
+import Index from '@/views/Index.vue'
 </script>
 
 <template>
